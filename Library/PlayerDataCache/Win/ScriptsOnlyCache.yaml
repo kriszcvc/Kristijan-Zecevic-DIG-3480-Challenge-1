@@ -520,5 +520,5 @@ ScriptsOnlyBuild:
   platform: 5
   scenePathNames:
   - Assets/Scenes/SampleScene.unity
-  playerPath: C:/Users/wii-m_000/Desktop/Unity Projects/UFO Tutorial/Builds/Build
-    2/UFO Tutorial.exe
+  playerPath: C:/Users/wii-m_000/Desktop/Unity Projects/UFO Challenge/Builds/Build
+    3/UFO Tutorial.exe
